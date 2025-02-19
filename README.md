@@ -17,6 +17,18 @@
 - Atualização de dados do médico;
 - Remoção de médicos.
 
+# Atividade
+
 - Construir um pacote chamado endereço dentro de model e criar uma classe Endereco com os atributos listados abaixo. Além disso, crie os getters, setters, construtor com todos os parâmetros e construtor sem parâmetro. 
 (Logradouro, bairro, cep, cidade, uf, numero, complemento)
 * Coloque todos os atributos como privados e do tipo String.
+
+# Aula 2 
+Verbos/ métodos HTTP 
+GET -> É quando você pede algo de retorno.
+POST -> É quando você passa informações.
+PUT
+DELETE
+
+Resquest [REQUISIÇÃO] -> É o que você passa esperando o retorno
+Response [RESPOSTA] -> É a resposta que você recebe.

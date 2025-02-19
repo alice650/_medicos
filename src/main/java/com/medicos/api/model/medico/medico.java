@@ -1,7 +1,5 @@
 package com.medicos.api.model.medico;
 
-import com.medicos.api.model.Especialidade;
-
 import lombok.*;
 
 @Getter
